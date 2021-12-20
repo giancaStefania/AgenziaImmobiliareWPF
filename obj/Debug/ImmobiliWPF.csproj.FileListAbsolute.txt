@@ -1,0 +1,84 @@
+C:\Users\software\source\repos\ImmobiliWPF\bin\Debug\ImmobiliWPF.exe.config
+C:\Users\software\source\repos\ImmobiliWPF\bin\Debug\ImmobiliWPF.exe
+C:\Users\software\source\repos\ImmobiliWPF\bin\Debug\ImmobiliWPF.pdb
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\ImmobiliWPF.csproj.AssemblyReference.cache
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\MainWindow.g.cs
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\App.g.cs
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\ImmobiliWPF_MarkupCompile.cache
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\ImmobiliWPF_MarkupCompile.lref
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\MainWindow.baml
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\ImmobiliWPF.g.resources
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\ImmobiliWPF.Properties.Resources.resources
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\ImmobiliWPF.csproj.GenerateResource.cache
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\ImmobiliWPF.csproj.CoreCompileInputs.cache
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\ImmobiliWPF.exe
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\ImmobiliWPF.pdb
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\WindowProp.g.cs
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\WindowProp.baml
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\UserControl1.g.cs
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\UserControl1.baml
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\ImmobiliWin.g.cs
+C:\Users\software\source\repos\ImmobiliWPF\obj\Debug\ImmobiliWin.baml
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\bin\Debug\ImmobiliWPF.exe.config
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\bin\Debug\ImmobiliWPF.exe
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\bin\Debug\ImmobiliWPF.pdb
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.csproj.AssemblyReference.cache
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWin.g.cs
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\MainWindow.g.cs
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\UserControl1.g.cs
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\WindowProp.g.cs
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\App.g.cs
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF_MarkupCompile.cache
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF_MarkupCompile.lref
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWin.baml
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\MainWindow.baml
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\UserControl1.baml
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\WindowProp.baml
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.g.resources
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.Properties.Resources.resources
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.csproj.GenerateResource.cache
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.exe
+Z:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.pdb
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\bin\Debug\ImmobiliWPF.exe.config
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\bin\Debug\ImmobiliWPF.exe
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\bin\Debug\ImmobiliWPF.pdb
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.csproj.AssemblyReference.cache
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWin.g.cs
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\MainWindow.g.cs
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\UserControl1.g.cs
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\WindowProp.g.cs
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\App.g.cs
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF_MarkupCompile.cache
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF_MarkupCompile.lref
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWin.baml
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\MainWindow.baml
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\UserControl1.baml
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\WindowProp.baml
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.g.resources
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.Properties.Resources.resources
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.csproj.GenerateResource.cache
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.csproj.CoreCompileInputs.cache
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.exe
+X:\percorso ERP developer\alunni\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.pdb
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\bin\Debug\ImmobiliWPF.exe.config
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\bin\Debug\ImmobiliWPF.exe
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\bin\Debug\ImmobiliWPF.pdb
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.csproj.AssemblyReference.cache
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWin.g.cs
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\UserControl1.g.cs
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\WindowProp.g.cs
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\App.g.cs
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF_MarkupCompile.cache
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF_MarkupCompile.lref
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWin.baml
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\MainWindow.baml
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\UserControl1.baml
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\WindowProp.baml
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.g.resources
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.Properties.Resources.resources
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.csproj.GenerateResource.cache
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.exe
+C:\Users\Giancarlo\Documents\Progetti\Progetti_immaginazione\giancarlo_stefania-20211210T091246Z-001\giancarlo_stefania\ImmobiliWPF\obj\Debug\ImmobiliWPF.pdb

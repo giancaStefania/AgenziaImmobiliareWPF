@@ -1,0 +1,55 @@
+﻿<UserControl x:Class="ImmobiliWPF.MainWindow"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ImmobiliWPF"
+             mc:Ignorable="d" >
+
+
+
+    <Grid Background="White" Width="800" Height="500">
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" TextAlignment="Center" Height="23" Margin="50">Inserisci i dati dell'immobile</TextBlock>
+        <Grid VerticalAlignment="Center" HorizontalAlignment="Center" Width="500">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" MinWidth="160"/>
+                <ColumnDefinition Width="Auto" MinWidth="6"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" TextAlignment="Center" Width="Auto" Height="16" Margin="0,1,0,10">Via</TextBlock>
+            <TextBlock Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" TextAlignment="Center" Width="Auto" Height="16" Margin="0,1,0,10">Superficie</TextBlock>
+            <TextBlock Grid.Column="0" Grid.Row="2" VerticalAlignment="Center" TextAlignment="Center" Width="Auto" Height="16" Margin="0,1,0,10">Numero Vani</TextBlock>
+            <TextBlock Grid.Column="0" Grid.Row="3" VerticalAlignment="Center" TextAlignment="Center" Width="Auto" Height="16" Margin="0,1,0,10">Prezzo</TextBlock>
+            <TextBlock Grid.Column="0" Grid.Row="4" VerticalAlignment="Center" TextAlignment="Center" Width="Auto" Height="16" Margin="0,1,0,10">Proprietario</TextBlock>
+            <TextBlock Grid.Column="0" Grid.Row="5" VerticalAlignment="Center" TextAlignment="Center" Width="Auto" Height="16" Margin="0,1,0,10">Tipo Immobile</TextBlock>
+            <TextBlock Grid.Column="0" Grid.Row="6" VerticalAlignment="Center" TextAlignment="Center" Width="Auto" Height="16" Margin="0,1,0,10">E' in vendita?</TextBlock>
+            <TextBox Grid.Column="1" Grid.Row="0" x:Name="via" Width="Auto" Margin="0,0,-332,10" />
+            <TextBox Grid.Column="1" Grid.Row="1" x:Name="superficie" Width="Auto" Margin="0,0,-332,10"/>
+            <TextBox Grid.Column="1" Grid.Row="2" x:Name="nvani" Width="Auto" Margin="0,0,-332,10" />
+            <TextBox Grid.Column="1" Grid.Row="3" x:Name="prezzo" Width="Auto" Margin="0,0,-332,10" />
+            <ComboBox Grid.Column="1" Grid.Row="4" x:Name="prop"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="0,0,-332,10">
+                <ComboBoxItem IsSelected="True">Nessun Proprietario</ComboBoxItem>
+            </ComboBox>
+            <ComboBox  Grid.Column="1" Grid.Row="5" x:Name="tipo"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Width="Auto" Margin="0,0,-332,10">
+                <ComboBoxItem IsSelected="True" VerticalContentAlignment="Center">Nessun Tipo</ComboBoxItem>
+            </ComboBox>
+            <ComboBox Grid.Column="1" Grid.Row="6" x:Name="in_vendita"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="0,0,-332,10">
+                <ComboBoxItem IsSelected="True" VerticalContentAlignment="Center">Si</ComboBoxItem>
+                <ComboBoxItem VerticalContentAlignment="Center">No</ComboBoxItem>
+            </ComboBox>
+        </Grid>
+        <Grid HorizontalAlignment="Center" VerticalAlignment="Bottom">
+            <Button Name="invia" Width="100" Height="30" Margin="0,0,0,40" Click="btn_Click">Invia</Button>
+            <TextBlock Name="errore" Foreground="Red" Margin="130,0,-130,54" TextAlignment="Center" VerticalAlignment="Center" ></TextBlock>
+        </Grid>
+    </Grid>
+
+</UserControl>
